@@ -27,5 +27,11 @@
     "gsap": "^3.10.3",
     "imagesloaded": "^5.0.0",
     "split-type": "^0.2.5"
-  }
+  },
+  "script": {
+   "dev": "next dev",
+   "build": "next build", 
+   "start": "next start",
+   "lint": "next lint"
+}
 }
